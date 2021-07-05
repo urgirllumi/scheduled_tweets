@@ -1,0 +1,15 @@
+current directory: /mnt/c/code/scheduled_tweets/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/lume/.rbenv/versions/3.0.1/bin/ruby -I /home/lume/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210705-4208-j4u711.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/code/scheduled_tweets/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /mnt/c/code/scheduled_tweets/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /mnt/c/code/scheduled_tweets/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210705-4208-c99kl0/skiptrace/internal
